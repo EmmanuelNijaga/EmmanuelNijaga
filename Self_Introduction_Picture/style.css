@@ -13,7 +13,6 @@ header, h2 {
     background: linear-gradient(to right, #ede372, #dea573);
     padding: 1px;
     border-radius: 50px;
-    color: rgb(82, 80, 80);
 }
 
 h1 {
@@ -65,7 +64,6 @@ footer {
     border-radius: 50px;
     display: inline-block;
     margin-top: 20px;
-    color: lightgray;
 }
 .naman{
     font-size: 25px;
