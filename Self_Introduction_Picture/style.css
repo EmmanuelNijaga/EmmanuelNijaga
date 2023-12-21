@@ -10,7 +10,7 @@ body {
 }
 
 header, h2 {
-    background: linear-gradient(to right, #f5b47a, #de9352);
+    background: linear-gradient(to left, #f5b47a, #de9352);
     padding: 1px;
     border-radius: 50px;
 }
@@ -58,7 +58,7 @@ footer {
 .insane-button {
     padding: 15px 30px;
     font-size: 1em;
-    background: linear-gradient(to right, #f5b47a, #de9352);
+    background: linear-gradient(to left, #f5b47a, #de9352);
     color: #1a1a1a;
     text-decoration: none;
     border-radius: 50px;
